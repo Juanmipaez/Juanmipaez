@@ -18,7 +18,7 @@ I'm a Linear Algebra Teaching Assistant at UNAL and previously worked as a Live 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-Currently learning: 
+### Currently learning
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 #### Get in touch
